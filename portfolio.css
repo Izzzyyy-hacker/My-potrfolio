@@ -100,7 +100,7 @@ body {
 
 .profile-eyebrow {
     margin: 0 0 0.6rem;
-    color: #01030e;
+    color: #fff;
     font-size: 0.85rem;
     font-weight: 700;
     letter-spacing: 0.2em;
@@ -128,7 +128,7 @@ body {
     max-width: 100%;
     margin: 1.25rem 0 0;
     overflow: hidden;
-    color: #000000;
+    color: #fff;;
     font-size: clamp(1rem, 2vw, 1.2rem);
 }
 
